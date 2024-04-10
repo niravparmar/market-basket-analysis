@@ -1,8 +1,3 @@
----
-runme:
-  id: 01HV4S8PFXQ3ZM0FKDQH6M8SXF
-  version: v3
----
 
 # Market Basket Analysis Dashboard
 
